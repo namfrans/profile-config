@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FRcode-spicer
+- 👋 Hi, I’m @FR
 - 👀 I’m interested in Python, Java, AI and Machine learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Ballerin
 - 💞️ I’m looking to collaborate on Python or Java projects
 - 📫 How to reach me send an email at nambfrans@gmail.com
 
