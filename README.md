@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FR
+- 👋 Hi, I am Frans.
 - 👀 I’m interested in Python, Java, AI and Machine learning
-- 🌱 I’m currently learning Ballerin
-- 💞️ I’m looking to collaborate on Python or Java projects
+- 🌱 I’m currently learning Distributed systems, Data analytics and DSA
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me send an email at nambfrans@gmail.com
 
 <!---
